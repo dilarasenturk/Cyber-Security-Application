@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\demir\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rsel Programlama 2 Proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C17F088-0A8F-49CE-ADE0-B610F33BDEB1}|G\u00F6rsel Programlama 2 Proje\\G\u00F6rsel Programlama 2 Proje.csproj|C:\\Users\\demir\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rsel Programlama 2 Proje\\g\u00F6rsel programlama 2 proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C17F088-0A8F-49CE-ADE0-B610F33BDEB1}|G\u00F6rsel Programlama 2 Proje\\G\u00F6rsel Programlama 2 Proje.csproj|solutionrelative:g\u00F6rsel programlama 2 proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C17F088-0A8F-49CE-ADE0-B610F33BDEB1}|G\u00F6rsel Programlama 2 Proje\\G\u00F6rsel Programlama 2 Proje.csproj|c:\\users\\demir\\onedrive\\masa\u00FCst\u00FC\\g\u00F6rsel programlama 2 proje\\g\u00F6rsel programlama 2 proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C17F088-0A8F-49CE-ADE0-B610F33BDEB1}|G\u00F6rsel Programlama 2 Proje\\G\u00F6rsel Programlama 2 Proje.csproj|solutionrelative:g\u00F6rsel programlama 2 proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\demir\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rsel Programlama 2 Proje\\G\u00F6rsel Programlama 2 Proje\\Form1.cs",
+              "RelativeDocumentMoniker": "G\u00F6rsel Programlama 2 Proje\\Form1.cs",
+              "ToolTip": "C:\\Users\\demir\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rsel Programlama 2 Proje\\G\u00F6rsel Programlama 2 Proje\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "G\u00F6rsel Programlama 2 Proje\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:07:32.831Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rsel Programlama 2 Proje\\G\u00F6rsel Programlama 2 Proje\\Form1.cs",
+              "RelativeDocumentMoniker": "G\u00F6rsel Programlama 2 Proje\\Form1.cs",
+              "ToolTip": "C:\\Users\\demir\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rsel Programlama 2 Proje\\G\u00F6rsel Programlama 2 Proje\\Form1.cs",
+              "RelativeToolTip": "G\u00F6rsel Programlama 2 Proje\\Form1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwCYAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:07:32.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

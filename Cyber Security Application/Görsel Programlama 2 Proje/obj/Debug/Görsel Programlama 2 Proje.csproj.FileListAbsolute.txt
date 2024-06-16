@@ -1,0 +1,81 @@
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\Görsel Programlama 2 Proje.exe.config
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\Görsel Programlama 2 Proje.exe
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\Görsel Programlama 2 Proje.pdb
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\MaterialSkin.dll
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel Programlama 2 Proje.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel_Programlama_2_Proje.Form1.resources
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel_Programlama_2_Proje.Properties.Resources.resources
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel Programlama 2 Proje.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel Programlama 2 Proje.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel Programlama 2 Proje.csproj.CopyComplete
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel Programlama 2 Proje.exe
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel Programlama 2 Proje.pdb
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\Görsel Programlama 2 Proje.exe.config
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\Görsel Programlama 2 Proje.exe
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\Görsel Programlama 2 Proje.pdb
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\BinarySerializer.dll
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\MaterialSkin.dll
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\PacketDotNet.dll
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\SharpPcap.dll
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Buffers.dll
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Memory.dll
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Buffers.xml
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Memory.xml
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel Programlama 2 Proje.csproj.AssemblyReference.cache
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel Programlama 2 Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel Programlama 2 Proje.exe.config
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel_Programlama_2_Proje.Form1.resources
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel_Programlama_2_Proje.Properties.Resources.resources
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel Programlama 2 Proje.csproj.GenerateResource.cache
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel Programlama 2 Proje.csproj.CoreCompileInputs.cache
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel P.F8610B0D.Up2Date
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel Programlama 2 Proje.exe
+C:\Users\demir\OneDrive\Masaüstü\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel Programlama 2 Proje.pdb
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\Görsel Programlama 2 Proje.exe.config
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\Görsel Programlama 2 Proje.exe
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\Görsel Programlama 2 Proje.pdb
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\BinarySerializer.dll
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\MaterialSkin.dll
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\PacketDotNet.dll
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\SharpPcap.dll
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Buffers.dll
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Memory.dll
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Buffers.xml
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Memory.xml
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel Programlama 2 Proje.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel Programlama 2 Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel Programlama 2 Proje.exe.config
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel_Programlama_2_Proje.Form1.resources
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel_Programlama_2_Proje.Properties.Resources.resources
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel Programlama 2 Proje.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel Programlama 2 Proje.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel Programlama 2 Proje.csproj.CopyComplete
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel Programlama 2 Proje.exe
+C:\Users\PC\Desktop\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel Programlama 2 Proje.pdb
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\BinarySerializer.dll
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\PacketDotNet.dll
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\SharpPcap.dll
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Buffers.dll
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Memory.dll
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Buffers.xml
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Memory.xml
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel Programlama 2 Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\Görsel Programlama 2 Proje\Görsel Programlama 2 Proje\obj\Debug\Görsel Programlama 2 Proje.exe.config
